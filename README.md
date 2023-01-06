@@ -1,1 +1,1 @@
-# Pong-Game developed in Python.
+# Pong-game developed in Python.
